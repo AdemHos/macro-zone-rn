@@ -1,50 +1,76 @@
-# Welcome to your Expo app 👋
+📱 Macro Zone
 
-This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
+Macro Zone is a mobile application that helps users track their daily meals and macronutrient intake (calories, protein, carbohydrates, and fat). With a simple and user-friendly interface, it makes nutrition tracking easy and efficient.
 
-## Get started
+🚀 Features
+🍽️ Add daily meals (breakfast, lunch, dinner, etc.)
+🔢 Track macronutrients:
+Calories
+Protein
+Carbohydrates
+Fat
+📊 View daily total macros
+📋 Copy data to clipboard (Clipboard support)
+🔔 Notification support (reminders)
+♻️ Reusable component architecture
+⚡ Fast and smooth performance (powered by Expo)
+🛠️ Tech Stack
+React Native (Expo)
+TypeScript
+Expo Notifications
+Expo Clipboard
+Reusable Component Architecture
+📂 Project Structure
+/components     → Reusable UI components  
+/screens        → Application screens  
+/hooks          → Custom hooks  
+/utils          → Helper functions  
+/types          → TypeScript type definitions  
+⚙️ Installation
 
-1. Install dependencies
+To run the project locally:
 
-   ```bash
-   npm install
-   ```
+# clone the repository
+git clone https://github.com/your-username/macro-zone.git
 
-2. Start the app
+# navigate into the project
+cd macro-zone
 
-   ```bash
-   npx expo start
-   ```
+# install dependencies
+npm install
 
-In the output, you'll find options to open the app in a
+# start the app
+npx expo start
+📱 Usage
+Open the app
+Add a new meal
+Enter macro values (calories, protein, carbs, fat)
+Track your daily totals
+Optionally copy data to clipboard or set reminders
+🎯 Purpose
 
-- [development build](https://docs.expo.dev/develop/development-builds/introduction/)
-- [Android emulator](https://docs.expo.dev/workflow/android-studio-emulator/)
-- [iOS simulator](https://docs.expo.dev/workflow/ios-simulator/)
-- [Expo Go](https://expo.dev/go), a limited sandbox for trying out app development with Expo
+Macro Zone is designed for:
 
-You can start developing by editing the files inside the **app** directory. This project uses [file-based routing](https://docs.expo.dev/router/introduction).
+Fitness enthusiasts
+People on a diet
+Anyone who wants to track daily nutrition
 
-## Get a fresh project
+It provides a fast, simple, and effective way to monitor eating habits.
 
-When you're ready, run:
+🔮 Future Improvements
+📈 Macro analytics with charts
+☁️ Cloud synchronization
+👤 User authentication system
+🍎 Food database integration
+🤖 AI-powered nutrition suggestions
+🤝 Contributing
 
-```bash
-npm run reset-project
-```
+If you’d like to contribute:
 
-This command will move the starter code to the **app-example** directory and create a blank **app** directory where you can start developing.
+Fork the repository
+Create a new branch (feature/your-feature)
+Commit your changes
+Open a Pull Request 🚀
+📄 License
 
-## Learn more
-
-To learn more about developing your project with Expo, look at the following resources:
-
-- [Expo documentation](https://docs.expo.dev/): Learn fundamentals, or go into advanced topics with our [guides](https://docs.expo.dev/guides).
-- [Learn Expo tutorial](https://docs.expo.dev/tutorial/introduction/): Follow a step-by-step tutorial where you'll create a project that runs on Android, iOS, and the web.
-
-## Join the community
-
-Join our community of developers creating universal apps.
-
-- [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
-- [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
+This project is licensed under the MIT License.
