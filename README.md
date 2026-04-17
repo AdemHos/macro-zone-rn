@@ -78,3 +78,17 @@ Open a Pull Request 🚀
 📄 License
 
 This project is licensed under the MIT License.
+
+## Screens
+
+### Home Screen
+
+![Home Screen](./assets/screenshots/home.jpeg)
+
+### Add Meal
+
+![Add Meal](./assets/screenshots/add-meal.jpeg)
+
+### All Meals
+
+![Stats](./assets/screenshots/all-meals.jpeg)
