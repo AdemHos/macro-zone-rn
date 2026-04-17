@@ -21,25 +21,29 @@ Expo Notifications
 Expo Clipboard
 Reusable Component Architecture
 📂 Project Structure
-/components     → Reusable UI components  
-/screens        → Application screens  
-/hooks          → Custom hooks  
-/utils          → Helper functions  
-/types          → TypeScript type definitions  
+/components → Reusable UI components  
+/screens → Application screens  
+/hooks → Custom hooks  
+/utils → Helper functions  
+/types → TypeScript type definitions  
 ⚙️ Installation
 
 To run the project locally:
 
 # clone the repository
+
 git clone https://github.com/your-username/macro-zone.git
 
 # navigate into the project
+
 cd macro-zone
 
 # install dependencies
+
 npm install
 
 # start the app
+
 npx expo start
 📱 Usage
 Open the app
